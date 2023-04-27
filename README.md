@@ -15,16 +15,20 @@ In this course, we will cover the fundamentals of synthetic control estimation a
 
 <details open><summary><b>Synthetic Control</b></summary><br/>
 
+<b>About</b>
+
+This set of lecture materials will introduce the synthetic control method and its application in empirical research. We will discuss the guiding principles of synthetic control estimation and inference, and how these principles are applied in practice. Then, we will discuss how to conduct inference using synthetic controls, including the use of placebo tests and permutation tests. We will discuss a generalization of synthetic control via the penalized synthetic control method. Finally, we will discuss how to design experiments optimally when planning on using synthetic controls for estimation.
+
 <b>Slides</b>
 
 [Synthetic-Control.pdf](Slides/Synthetic-Control.pdf)
 
-<b>Coding Exercise</b>
+<!-- <b>Coding Exercise</b> -->
 
 </details><br />
 
 
-<details v><summary><b>Clustering</b></summary><br/>
+<details><summary><b>Clustering</b></summary><br/>
 
 <b>Slides</b>
 
