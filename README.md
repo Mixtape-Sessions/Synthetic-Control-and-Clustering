@@ -13,29 +13,24 @@ In this course, we will cover the fundamentals of synthetic control estimation a
 <img src="img/readme_schedule.png" alt="Schedule" width="100%"> 
 <br/>
 
-<details><summary><b>Synthetic Control</b></summary><br/>
-
-<b>About</b>
+<details open><summary><b>Synthetic Control</b></summary><br/>
 
 <b>Slides</b>
 
-<!-- [Introduction.pdf](Slides/01-introduction.pdf) -->
+[Synthetic-Control.pdf](Slides/Synthetic-Control.pdf)
 
 <b>Coding Exercise</b>
 
 </details><br />
 
 
-<details><summary><b>Clustering</b></summary><br/>
-
-<b>About</b>
-
+<details v><summary><b>Clustering</b></summary><br/>
 
 <b>Slides</b>
 
 <!-- [Staggered.pdf](Slides/02-staggered.pdf) -->
 
-<b>Coding Exercise</b>
+<!-- <b>Coding Exercise</b> -->
 
 <!-- [Instructions](https://github.com/Mixtape-Sessions/Advanced-DID/blob/main/Exercises/Exercise-1/README.md#introduction) -->
 
