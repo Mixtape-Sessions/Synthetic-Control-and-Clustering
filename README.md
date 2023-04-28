@@ -25,13 +25,13 @@ This set of lecture materials will introduce the synthetic control method and it
 
 <details><summary><b>Clustering</b></summary><br/>
 
+<b>About</b>
+
+This set of lecture materials will introduce the concept of clustering standard errors in empirical research and discuss when and how to cluster standard errors. The material covers [this paper](https://academic.oup.com/qje/article/138/1/1/6750017).
+
 <b>Slides</b>
 
-<!-- [Staggered.pdf](Slides/02-staggered.pdf) -->
-
-<!-- <b>Coding Exercise</b> -->
-
-<!-- [Instructions](https://github.com/Mixtape-Sessions/Advanced-DID/blob/main/Exercises/Exercise-1/README.md#introduction) -->
+[Clustering.pdf](Slides/Clustering.pdf)
 
 </details><br />
 
