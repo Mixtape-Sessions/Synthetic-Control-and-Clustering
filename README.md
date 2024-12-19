@@ -9,24 +9,20 @@ In this course, we will cover the fundamentals of synthetic control estimation a
 
 ### Synthetic Control
 
-#### About
-
 This set of lecture materials will introduce the synthetic control method and its application in empirical research. We will discuss the guiding principles of synthetic control estimation and inference, and how these principles are applied in practice. Then, we will discuss how to conduct inference using synthetic controls, including the use of placebo tests and permutation tests. We will discuss a generalization of synthetic control via the penalized synthetic control method. Finally, we will discuss how to design experiments optimally when planning on using synthetic controls for estimation.
 
 #### Slides
 
-[Synthetic-Control.pdf](https://github.com/Mixtape-Sessions/Synthetic-Control-and-Clustering/blob/main/Slides/Synthetic-Control.pdf)
+[Synthetic-Control.pdf](https://nbviewer.org/github/Mixtape-Sessions/Synthetic-Control-and-Clustering/blob/main/Slides/Synthetic-Control.pdf)
 
 
 ### Clustering
-
-#### About
 
 This set of lecture materials will introduce the concept of clustering standard errors in empirical research and discuss when and how to cluster standard errors. The material covers [this paper](https://academic.oup.com/qje/article/138/1/1/6750017).
 
 #### Slides
 
-[Clustering.pdf](https://github.com/Mixtape-Sessions/Synthetic-Control-and-Clustering/blob/main/Slides/Clustering.pdf)
+[Clustering.pdf](https://nbviewer.org/github/Mixtape-Sessions/Synthetic-Control-and-Clustering/blob/main/Slides/Clustering.pdf)
 
 
 
